@@ -1,1 +1,5 @@
-fixed things
+Changes : 
+.fixed some bugs
+.fixed fixer game
+.fix other stuff blah blah blah
+.fix dix
